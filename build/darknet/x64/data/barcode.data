@@ -1,0 +1,5 @@
+classes= 1 
+train  = /content/mydrive/WORK/barcode/train.txt  
+valid  = /content/mydrive/WORK/barcode/test.txt  
+names = data/barcode.names
+backup = /content/mydrive/WORK/barcode/yolo/backup_v4/
